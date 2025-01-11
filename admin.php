@@ -101,13 +101,13 @@ if (!isset($_SESSION['username'])) {
     <!-- footer begin -->
     <footer class="text-center p-5 bg-info-subtle">
     <div>
-        <a href="https://www.instagram.com/Cristiano"
+        <a href="https://www.instagram.com/leomessi"
         ><i class="bi bi-instagram h2 p-2 text-dark"></i
         ></a>
         <a href="https://twitter.com/udinusofficial"
         ><i class="bi bi-twitter h2 p-2 text-dark"></i
         ></a>
-        <a href="https://wa.me/+62812685577"
+        <a href="#"
         ><i class="bi bi-whatsapp h2 p-2 text-dark"></i
         ></a>
     </div>
