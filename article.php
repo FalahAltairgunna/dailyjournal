@@ -132,7 +132,7 @@ if (isset($_POST['simpan'])) {
     if ($simpan) {
         echo "<script>
             alert('Simpan data sukses');
-            document.location='admin.php?page=article';
+            document.location='admin.php?page=article';     
         </script>";
     } else {
         echo "<script>
@@ -163,7 +163,7 @@ if (isset($_POST['hapus'])) {
     if ($hapus) {
         echo "<script>
             alert('Hapus data sukses');
-            document.location='admin.php?page=article';
+            document.location='admin.php?page=article';         
         </script>";
     } else {
         echo "<script>
